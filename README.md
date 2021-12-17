@@ -13,7 +13,7 @@ DATE: 2021-06-18
 # Direct Observation of Peptide Hydrogel Self-Assembly          #
 #                                                               #
 #                                                               #
-# DOI: tbd                                                      #
+# DOI: 10.26434/chemrxiv-2021-6wbv4                             #
 #                                                               #
 #################################################################
 
