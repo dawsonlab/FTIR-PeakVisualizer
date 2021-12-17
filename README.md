@@ -8,10 +8,10 @@ DATE: 2021-06-18
 #################################################################
 # If you used these scripts in your work, please cite:          #
 #                                                               #
-# Z.C. Adams, E.J. Olson, Z. Lian, A. Kim, M. Holcomb,          #
+# Z.C. Adams, E.J. Olson, Z. Lian, A.Y. Kim, M. Holcomb,        #
 # R. Adhikary, J. Zimmermann, and P.E. Dawson                   #
-# Direct Kinetic Observation of MAX1 Peptide Self-Assembly via  #
-# Site-Specific Carbon-Deuterium Bonds as Infrared Probes       #
+# Direct Observation of Peptide Hydrogel Self-Assembly          #
+#                                                               #
 #                                                               #
 # DOI: tbd                                                      #
 #                                                               #
