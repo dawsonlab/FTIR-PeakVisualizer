@@ -1,15 +1,15 @@
 # FTIR-PeakVisualizer
 
 ==========
-PAPER TITLE: Direct Kinetic Observation of MAX1 Peptide Self-Assembly via Site-Specific Carbon-Deuterium Bonds as Infrared Probes
+PAPER TITLE: Direct Observation of Peptide Hydrogel Self-Assembly
 
-DATE: 2021-06-18
+DATE: 2022-07-15
 
 #################################################################
 # If you used these scripts in your work, please cite:          #
 #                                                               #
-# Z.C. Adams, E.J. Olson, Z. Lian, A.Y. Kim, M. Holcomb,        #
-# R. Adhikary, J. Zimmermann, and P.E. Dawson                   #
+# Z.C. Adams, E.J. Olson, T.L. Lopez-Silva, Z. Lian, A.Y. Kim,  #
+# M. Holcomb, R. Adhikary, J. Zimmermann, and P.E. Dawson       #
 # Direct Observation of Peptide Hydrogel Self-Assembly          #
 #                                                               #
 #                                                               #
