@@ -3,17 +3,17 @@
 ==========
 PAPER TITLE: Direct Observation of Peptide Hydrogel Self-Assembly
 
-DATE: 2022-07-15
+DATE: 2022-08-23
 
 #################################################################
 # If you used these scripts in your work, please cite:          #
 #                                                               #
 # Z.C. Adams, E.J. Olson, T.L. Lopez-Silva, Z. Lian, A.Y. Kim,  #
 # M. Holcomb, R. Adhikary, J. Zimmermann, and P.E. Dawson       #
-# Direct Observation of Peptide Hydrogel Self-Assembly          #
+# Direct observation of peptide hydrogel self-assembly          #
 #                                                               #
 #                                                               #
-# DOI: 10.26434/chemrxiv-2021-6wbv4                             #
+# DOI	https://doi.org/10.1039/D1SC06562A                         #
 #                                                               #
 #################################################################
 
